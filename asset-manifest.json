@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hospital-finder/static/css/main.323d7611.css",
-    "main.js": "/hospital-finder/static/js/main.c500f0d3.js",
+    "main.js": "/hospital-finder/static/js/main.0b947bcb.js",
     "static/js/488.09a83c24.chunk.js": "/hospital-finder/static/js/488.09a83c24.chunk.js",
     "index.html": "/hospital-finder/index.html",
     "main.323d7611.css.map": "/hospital-finder/static/css/main.323d7611.css.map",
-    "main.c500f0d3.js.map": "/hospital-finder/static/js/main.c500f0d3.js.map",
+    "main.0b947bcb.js.map": "/hospital-finder/static/js/main.0b947bcb.js.map",
     "488.09a83c24.chunk.js.map": "/hospital-finder/static/js/488.09a83c24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323d7611.css",
-    "static/js/main.c500f0d3.js"
+    "static/js/main.0b947bcb.js"
   ]
 }
